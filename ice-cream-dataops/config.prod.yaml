@@ -21,7 +21,6 @@ variables:
       IDP_TOKEN_URL: ${IDP_TOKEN_URL} # replaced by .env
       # Groups
       # OBJECT ID FOR TEST/PROD DATA PIPELINE OEE ENTRA GROUP
-
       data_pipeline_oee_source_id: cc452d19-0a58-4dc5-9bf9-2e5bc6f7b4d1
       # OBJECT ID FOR TEST/PROD ADMIN TK ENTRA GROUP
       readwrite_source_id: 5569ac08-8c9e-44d0-9c77-86bebc50bf3e
