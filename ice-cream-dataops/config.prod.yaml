@@ -33,7 +33,7 @@ variables:
       data_pipeline_oee_client_secret: ${DATA_PIPELINE_OEE_CLIENT_SECRET} # replaced by .env
       icapi_extractors_client_id: ${ICAPI_EXTRACTORS_CLIENT_ID} # replaced by .env
       icapi_extractors_client_secret: ${ICAPI_EXTRACTORS_CLIENT_SECRET} # replaced by .env
-      data_developer_source_id: 773a7337-9be6-4338-ac62-b51b0affdbd1
+      data_developer_source_id: db121f7e-8c45-4f59-8c02-3b4d26ceaeb0
       # Variables shared by modules
       scheduleHourly: 14 1 * * *
 
