@@ -23,11 +23,11 @@ variables:
       # OBJECT ID FOR TEST/PROD DATA PIPELINE OEE ENTRA GROUP
       data_pipeline_oee_source_id: baa64436-85ee-448a-ba50-1adaa64e38ef
       # OBJECT ID FOR TEST/PROD ADMIN TK ENTRA GROUP
-      readwrite_source_id: 08fff13c-465a-4a16-9588-b19161b42070
+      readwrite_source_id: 7316fc00-8566-4457-ad67-2062b9569913
       # OBJECT ID FOR TEST/PROD ADMIN TK ENTRA GROUP
-      readonly_source_id: 08fff13c-465a-4a16-9588-b19161b42070
+      readonly_source_id: 7316fc00-8566-4457-ad67-2062b9569913
       # OBJECT ID FOR TEST/PROD ICAPI EXTRACTORS ENTRA GROUP
-      icapi_extractors_source_id: cb3eaca7-6f3c-4155-8031-46f2e57551f2
+      icapi_extractors_source_id: ffb8dbd5-0f67-48ca-8d73-0600f35e5abd
       # Client Ids
       data_pipeline_oee_client_id: ${DATA_PIPELINE_OEE_CLIENT_ID} # replaced by .env
       data_pipeline_oee_client_secret: ${DATA_PIPELINE_OEE_CLIENT_SECRET} # replaced by .env
