@@ -9,6 +9,7 @@ capabilities:
         - READ
       scope:
         all: {}
+        
   - groupsAcl:
       actions:
         - LIST
